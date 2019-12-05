@@ -2,6 +2,9 @@
 Crafty Http(s) Api Testing Library Of Sane Simplicity
 
 Conceptualized by Todor Kolev on 5-Dec-2019. If this date is close to your current date, then I am probably still on the drawing board.
+
+If you need to talk, I am here for you on: tk.chatloss@gmail.com
+
 So far, my design goals are as follows:
 A. Uses bespoke code wherever possible. Try to avoid dependencies at all costs.
    Reason: Relying on other people is a risk. Through my 20 years in the business, I keep hearing "no need to reinvent the wheel".
@@ -25,7 +28,8 @@ In the works:
 * Simple as a brick (and equally useful) HTTP/S client
 * SOAP/REST support as standard
 * Bespoke XML/JSON parsing and validation
-* Out-of-the-box secrets manager so you don't include passwords in plaintext (don't do this!) like a clown.
+* Out-of-the-box secrets manager so you don't include passwords in plaintext (don't do this!) like a clown
+* REAL server with simple facility to mock your API
 
 ... More coming here ...
 
