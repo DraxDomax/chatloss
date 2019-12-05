@@ -32,8 +32,10 @@ In the works:
 * Bespoke XML/JSON parsing and validation
 * Out-of-the-box secrets manager so you don't include passwords in plaintext (don't do this!) like a clown
 * REAL server with simple facility to mock your API
-* Documentation for the framework components, usage guide and general things like API/Schema/Programming because I love you :)
+* Documentation for the framework components, usage guide and general things like API/Schema/Programming because I love you <3
 * Chrome/FF driver support if you need that little extra JS in your life
+* Back-end validation through JDBC and SSH
+* Target platform residing agent if you want to measure your test subject's internal stuff
 
 ... More coming here ...
 
