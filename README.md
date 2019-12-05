@@ -28,6 +28,7 @@ In the works:
 * Simple as a brick (and equally useful) HTTP/S client
 * SOAP/REST support as standard
 * Java and Python support
+* Load testing support via optimized performance, multi-threading and load profile modelling
 * Bespoke XML/JSON parsing and validation
 * Out-of-the-box secrets manager so you don't include passwords in plaintext (don't do this!) like a clown
 * REAL server with simple facility to mock your API
