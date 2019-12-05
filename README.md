@@ -33,6 +33,7 @@ In the works:
 * Out-of-the-box secrets manager so you don't include passwords in plaintext (don't do this!) like a clown
 * REAL server with simple facility to mock your API
 * Documentation for the framework components, usage guide and general things like API/Schema/Programming because I love you :)
+* Chrome/FF driver support if you need that little extra JS in your life
 
 ... More coming here ...
 
