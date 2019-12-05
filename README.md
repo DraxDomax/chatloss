@@ -1,8 +1,8 @@
 # chatloss
 Crafty Http(s) Api Testing Library Of Sane Simplicity
 
-Conceptualized by Todor Kolev on 5-Dec-2019. If this date is close to your current date, then I am probably still at the drawing board.
-
+Conceptualized by Todor Kolev on 5-Dec-2019. 
+If this date is close to your current date, then I am probably still at the drawing board.
 If you need to talk, I am here for you on: tk.chatloss@gmail.com
 
 So far, my design goals are as follows:
